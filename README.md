@@ -1,46 +1,36 @@
-# Abhishek — AI Systems Builder
+# Abhishek Sonigra
 
-Exploring **agentic AI systems, knowledge retrieval, and autonomous workflows.**
+AI Systems Builder | Agent Workflows | Knowledge Systems
 
-My work focuses on designing systems where AI agents **generate knowledge, evaluate outputs, and collaborate with humans** to solve complex information problems.
+I design **AI agents and automated workflows** that generate knowledge, evaluate outputs, and assist human decision-making.
 
-I build experimental AI systems combining:
-
-* Large Language Models
-* Agent workflows
-* Automated evaluation pipelines
-* Knowledge orchestration tools
-
----
-
-# Research Interests
+My work explores the intersection of:
 
 • Agentic AI systems
+• Knowledge retrieval
+• AI evaluation pipelines
 • Human-AI collaboration
-• Knowledge retrieval and synthesis
-• AI evaluation frameworks
-• AI-driven education systems
 
 ---
 
-# Projects
+# Current AI Projects
 
-## AI Tutor Agent (Autonomous Learning System)
+## AI Tutor Agent
 
-An AI tutor that automatically:
+An autonomous tutoring system that:
 
-1. Generates weekly curriculum
-2. Creates subject lessons
-3. Sends assignments
-4. Receives student responses
-5. Evaluates submissions with AI
-6. Generates structured feedback
+• generates weekly curriculum
+• creates subject lessons
+• sends assignments automatically
+• receives student responses via email
+• evaluates submissions using LLMs
+• produces performance reports
 
 ### Architecture
 
 Schedule Trigger
 ↓
-Curriculum Generation Agent
+Curriculum Agent
 ↓
 Lesson Generation Agent
 ↓
@@ -50,80 +40,57 @@ Email Delivery
 ↓
 Submission Intake
 ↓
-AI Evaluation Agent
+Evaluation Agent
 ↓
-Performance Report Generator
+Feedback Report
 
-### Technologies
+Technologies:
 
 * LLM APIs
 * n8n workflow automation
-* Prompt orchestration
-* Email based task pipelines
-
-Goal:
-Create a **fully autonomous education loop** where AI teaches, evaluates, and adapts.
+* prompt orchestration
+* automated evaluation
 
 ---
 
-## Autonomous AI Evaluation Pipeline
+## AI Evaluation Pipeline
 
-System that evaluates written responses using multiple AI prompts.
+A system that evaluates written responses using AI.
 
 Pipeline:
 
-Input → Parsing → Multi-criteria evaluation → Score generation → Feedback report
+Input → parsing → evaluation → scoring → feedback
 
-Evaluation metrics:
+Evaluation criteria:
 
 • conceptual understanding
-• reasoning quality
-• clarity of explanation
+• reasoning depth
+• clarity
 • completeness
 
-Purpose:
-Improve reliability of **AI-based grading and reasoning assessment**.
+Goal: improve reliability of AI-based grading systems.
 
 ---
 
-## Knowledge Retrieval Experiments
+## Agentic Knowledge Retrieval
 
-Exploring how AI agents can:
+Experiments exploring how AI agents can:
 
 • search multiple sources
 • synthesize knowledge
-• evaluate factual consistency
+• verify reasoning
+• produce structured answers
 
-Inspired by systems like **Perplexity AI**.
-
-Focus areas:
-
-* multi-agent retrieval
-* reasoning verification
-* structured knowledge output
+Inspired by next-generation AI search systems.
 
 ---
 
-# Current Experiments
+# Research Interests
 
-• Building agent workflows that autonomously generate and evaluate content
-• Studying evaluation frameworks for LLM reasoning
-• Developing systems where AI critiques AI outputs
-
----
-
-# Long-Term Research Vision
-
-AI systems should not simply generate answers.
-
-They should act as **knowledge collaborators** that:
-
-* gather evidence
-* reason over information
-* show uncertainty
-* improve through feedback
-
-I am exploring how **agentic workflows** can make this possible.
+• AI agents
+• knowledge synthesis
+• reasoning evaluation
+• AI-assisted learning systems
 
 ---
 
@@ -131,18 +98,19 @@ I am exploring how **agentic workflows** can make this possible.
 
 10+ years experience in:
 
-• program management
+• project management
 • marketing operations
 • CRM systems
 • loyalty analytics
 
-Now focused on **AI systems design and research**.
+Currently focused on **AI systems design and experimentation**.
 
 ---
 
 # Connect
 
+
 LinkedIn: https://www.linkedin.com/in/abhishek-sonigara/
 Email: creation_av@hotmail.com
 
-Open to collaborations on **AI research and agent systems**.
+
